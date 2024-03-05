@@ -48,4 +48,22 @@
 .navbar-brand img {
     max-width: 132px; 
 }
+/*section de pago*/
+.pago{
+  background-color: var(--blue);
+  color: var(--white);
+  
+}
 
+/*footer*/
+
+footer{
+  background-color:var(--pink);
+  text-align: center;
+  
+}
+
+footer img{
+  height: 5rem;
+margin: 2rem;
+}
